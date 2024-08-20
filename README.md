@@ -1,4 +1,4 @@
-# Spotify-Music-Popularity-and-Genre-Analysis-Capstone
+# Spotify Music Analysis Capstone
 
 This project analyzes a dataset of 52,000 Spotify songs to uncover insights into what makes music popular. It involves data preprocessing, exploratory data analysis, and the application of machine learning models to predict various aspects of songs, such as their popularity and energy levels. The goal is to
 
